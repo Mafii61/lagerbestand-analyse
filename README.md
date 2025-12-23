@@ -50,6 +50,8 @@ macOS / Linux:  source env/bin/activate
 
 pip install -r requirements.txt
 
-### 5. App starten
+### 5. Notebook starten
 
-python lagerbestands_analyse.py
+Bei Notebook folgende Datei starten und alle Zellen ausführen:
+
+lagerbestands_analyse.ipynb
